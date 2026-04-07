@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FoxBrotherJakes.aternos.me:23037",
+    "port": 23037,
     "version": "",
     "try-creative": false
   },
